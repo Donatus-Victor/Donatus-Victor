@@ -48,8 +48,7 @@ My experience spans across the **Energy**, **FinTech**, **Logistics**, and **Hos
 
 ## 🏭 Industries I've Worked In
 
-| ⚡ Energy | 💳 FinTech | 🚚 Logistics | 🏨 Hospitality 
-|---|---|---|
+| ⚡ Energy | 💳 FinTech | 🚚 Logistics | 🏨 Hospitality
 
 
 
