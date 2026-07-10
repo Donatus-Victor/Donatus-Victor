@@ -1,8 +1,10 @@
 Hello there! My name is Donatus Victor.
 
-I'm a **Data Analyst** with 4+ years of experience 📊, holding a **BSc in Applied Geophysics** and currently pursuing my **MSc in Data Science Management** at Rome Business School 🧑‍🎓 where I also completed a **Business Leadership Development Program**. I'm passionate about areas of machine learning like **and predictive analytics** 👨‍💻. I'm currently upskilling as a **Data Engineer** ⚙️, working with Azure cloud services, PySpark, and building ETL/ELT pipelines on Databricks 🚀.
+I'm a **Data Scientist** with a strong foundation of 4+ years of experience in data analytics 📊. I hold a **BSc in Applied Geophysics** and am currently pursuing my **MSc in Data Science Management** at Rome Business School 🧑‍🎓, where I also completed a **Business Leadership Development Program**.
 
-My experience spans across the **Energy**, **FinTech**, **Logistics**, and **Hospitality** sectors, turning complex datasets into actionable business intelligence that drives real decisions. I also take on freelance projects 💼, helping businesses unlock the value of their data through dashboards, predictive models, and data pipeline solutions. You can also find me building executive dashboards, fraud detection models, and customer churn predictions
+I am deeply passionate about building **machine learning models and predictive analytics solutions** 👨‍💻 to solve complex business problems. To support production-grade ML, I have also cross-trained as a **Fabric Data Engineer** ⚙️ architecting robust ETL/ELT pipelines using Azure cloud services, PySpark, and Databricks 🚀.
+
+My experience spans across the **FinTech**, **Asset Management**, **Energy**, **Logistics**, and **Hospitality** sectors, where I translate complex datasets into predictive insights and actionable intelligence that drive strategic decisions. Alongside my core roles, I take on freelance projects 💼, helping businesses unlock the value of their data by building end-to-end solutions from executive dashboards to fraud detection systems, predictive systems, and customer churn models.
 
 ---
 
